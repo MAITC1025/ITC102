@@ -1,0 +1,25 @@
+<html>
+
+<head>
+
+    <style>
+
+    body {background-color: #00ff21; }
+    h1 {color: yellow;}
+    p  {color: brown;}
+
+    </style>
+
+</head>
+
+<body>
+
+    <h1>This is a lobster</h1>
+    <p>The huge lobsters below can be found at the Public Market in Seattle
+    </p>
+
+    <img src="lobster.jpg" alt="Italian Trulli" width="500" height="333">
+
+</body>
+
+</html>
