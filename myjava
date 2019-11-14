@@ -34,6 +34,15 @@ function myFunction() {
 }
 </script>
 
+<p id="myP">This is a paragraph.</p>
+
+<button type="button" onclick="myFunction()">Set font size</button>
+ 
+<script>
+function myFunction() {
+  document.getElementById("myP").style.fontSize = "xx-large";
+}
+</script>
 
 <h2>JavaScript new Date()</h2>
 
